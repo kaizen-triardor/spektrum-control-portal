@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://spektrumcontrol.rs/sitemap.xml
